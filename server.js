@@ -23,7 +23,7 @@ function searchMembers() {
 
 // Fetch members from the json data
 function fetchMembers() {
-  return fetch('http://localhost:3000/members')
+  return fetch('https://my-json-server.typicode.com/BarmaoBrian/Phase-One-Project/members')
     .then(response => response.json())
     .catch(error => console.error('Error fetching members:', error));
 }

@@ -39,6 +39,12 @@ The project uses the following technologies:
 - JavaScript: Programming language for client-side interactions and DOM manipulation.
 - JSON Server: Local server for serving the JSON data.
 
+# Deployment
+
+-The code has been successfully hosted on github and the server is running.
+-You can deploy the project directly by the below link ;
+https://barmaobrian.github.io/Phase-One-Project/
+
 
 # License
 
