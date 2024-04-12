@@ -1,0 +1,49 @@
+{
+  "members": [
+    {
+      "name": "King Julius Wololo",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03OsOEhLr6JewJSl8TOaMRydLelethqqbzXokVjXaQg&s",
+      "sex": "Male",
+      "occupation": "Engineer",
+      "monthlyContributions": 2500,
+      "joinedGroup": "2023-05-01",
+      "position": "Chair"
+    },
+    {
+      "name": "gill kamau",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPoMUkSg2EPicbBhd436BUDpClWLUeJYblp4MV6R2aQ&s",
+      "sex": "Female",
+      "occupation": "Teacher",
+      "monthlyContributions": 2500,
+      "joinedGroup": "2023-05-01",
+      "position": "Treasurer"
+    },
+    {
+      "name": "Will Kip",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_Z0pM1B057bMe7bn2V9ZMYhK6dJQxkrqt38tSRrBgA&s",
+      "sex": "Male",
+      "occupation": "Accountant",
+      "monthlyContributions": 2500,
+      "joinedGroup": "2023-06-15",
+      "position": "Secretary"
+    },
+    {
+      "name": "Debbie Mornah",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvip8DdZs-yBCoRYiGCi0RnSGtM4wX5mqoO1JOWNkBKg&s",
+      "sex": "Female",
+      "occupation": "Doctor",
+      "monthlyContributions": 2500,
+      "joinedGroup": "2023-07-01",
+      "position": "Member"
+    },
+    {
+      "name": "Michael Musyoka",
+      "image": "https://cdn.standardmedia.co.ke/sdemedia/sdeimages/thursday/rknkw4exgbc4wlg6155ae587d9ba.jpg",
+      "sex": "Male",
+      "occupation": "Lawyer",
+      "monthlyContributions": 2500,
+      "joinedGroup": "2023-08-15",
+      "position": "Member"
+    }
+  ]
+}
